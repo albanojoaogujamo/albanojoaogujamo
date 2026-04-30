@@ -1,7 +1,7 @@
 # Hi 👋, I'm Albano Gujamo
 
 🎓 **Computer Engineering Student | Web Development Enthusiast**
-🌍 Africa
+🌍 Africa, Mozambique🇲🇿
 
 I'm passionate about **Web Development** and **Programming**.
 Currently focused on building my skills and creating practical projects.
