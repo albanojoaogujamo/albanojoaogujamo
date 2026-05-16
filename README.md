@@ -17,9 +17,6 @@ Atualmente focado em desenvolver minhas habilidades e criar projetos práticos.
   <a href="https://www.instagram.com/albano_gujamo">
     <img src="https://img.shields.io/badge/Instagram-@ALBANO__GUJAMO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/share/1CopYnj63S/">
-    <img src="https://img.shields.io/badge/Facebook-Albano%20Gujamo-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="mailto:albanojoaogujamo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-albanojoaogujamo-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
